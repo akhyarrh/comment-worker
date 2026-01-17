@@ -18,8 +18,8 @@ compatibility_date = "2023-08-11"
 #    { pattern = "comments.zanechua.com", custom_domain = true }
 #]
 #
-#[vars]
-#GITHUB_ORGANIZATION_SLUG = "zanechua"
-#GITHUB_REPOSITORY_SLUG = "website"
-#GITHUB_REPOSITORY_BRANCH = "master"
-#CW_ALLOWED_ORIGINS = "https://zanechua.com"
+[vars]
+GITHUB_ORGANIZATION_SLUG = "akhyarrh"
+GITHUB_REPOSITORY_SLUG = "akhyarrh.github.io"
+GITHUB_REPOSITORY_BRANCH = "source"
+CW_ALLOWED_ORIGINS = "https://akhyarrh.github.io, https://akhyar.pages.dev, https://akhyar.js.org, https://akhyar.id"
